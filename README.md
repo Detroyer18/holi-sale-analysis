@@ -1,0 +1,1 @@
+Analyzing sales data using Python is a common task in data analysis and can be done using various Python libraries such as Pandas, NumPy, and Matplotlib. Inorder to perform a proper EDA on the given data: Begin by importing the required libraries. Loading sales data into a Pandas DataFrame.
